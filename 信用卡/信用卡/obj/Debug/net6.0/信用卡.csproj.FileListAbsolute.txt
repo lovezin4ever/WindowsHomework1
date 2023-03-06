@@ -1,0 +1,15 @@
+F:\小羊的学习文件夹\c#\信用卡\信用卡\bin\Debug\net6.0\信用卡.exe
+F:\小羊的学习文件夹\c#\信用卡\信用卡\bin\Debug\net6.0\信用卡.deps.json
+F:\小羊的学习文件夹\c#\信用卡\信用卡\bin\Debug\net6.0\信用卡.runtimeconfig.json
+F:\小羊的学习文件夹\c#\信用卡\信用卡\bin\Debug\net6.0\信用卡.dll
+F:\小羊的学习文件夹\c#\信用卡\信用卡\bin\Debug\net6.0\信用卡.pdb
+F:\小羊的学习文件夹\c#\信用卡\信用卡\obj\Debug\net6.0\信用卡.csproj.AssemblyReference.cache
+F:\小羊的学习文件夹\c#\信用卡\信用卡\obj\Debug\net6.0\信用卡.GeneratedMSBuildEditorConfig.editorconfig
+F:\小羊的学习文件夹\c#\信用卡\信用卡\obj\Debug\net6.0\信用卡.AssemblyInfoInputs.cache
+F:\小羊的学习文件夹\c#\信用卡\信用卡\obj\Debug\net6.0\信用卡.AssemblyInfo.cs
+F:\小羊的学习文件夹\c#\信用卡\信用卡\obj\Debug\net6.0\信用卡.csproj.CoreCompileInputs.cache
+F:\小羊的学习文件夹\c#\信用卡\信用卡\obj\Debug\net6.0\信用卡.dll
+F:\小羊的学习文件夹\c#\信用卡\信用卡\obj\Debug\net6.0\refint\信用卡.dll
+F:\小羊的学习文件夹\c#\信用卡\信用卡\obj\Debug\net6.0\信用卡.pdb
+F:\小羊的学习文件夹\c#\信用卡\信用卡\obj\Debug\net6.0\信用卡.genruntimeconfig.cache
+F:\小羊的学习文件夹\c#\信用卡\信用卡\obj\Debug\net6.0\ref\信用卡.dll
